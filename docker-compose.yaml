@@ -1,0 +1,6 @@
+services:
+   node-app:
+      image: node:todo
+      ports:
+        - "80:8000"
+
