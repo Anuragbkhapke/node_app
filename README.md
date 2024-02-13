@@ -42,7 +42,7 @@ install docker compose on ubuntu
 
 
 run the application using docker compose
-`docker-compise up -d`
+`docker-compose up -d`
 
 
 access application on your computer browser using ec2 public ip 
