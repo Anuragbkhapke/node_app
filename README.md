@@ -1,4 +1,4 @@
-# node-todo-cicd
+# node-app 
 
 Run these commands for run on local server on ubuntu:
 
